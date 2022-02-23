@@ -30,4 +30,4 @@ Pasos  a seguir para el front
 4.  Abrir un navegador en  `http://localhost:4200/`. 
 
 
-Desarrollado po Cristian Piguave
+Desarrollado por Cristian Piguave
